@@ -1,0 +1,9 @@
+Código	Vendedor_Loja	Foto
+1	Daniela Gomes_1	https://images.pexels.com/photos/3767392/pexels-photo-3767392.jpeg
+2	Carlos ALBERTO_2	https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg
+3	Estela nascimento_1	https://images.pexels.com/photos/3786525/pexels-photo-3786525.jpeg
+4	ALBERTO SOARES_4	https://images.pexels.com/photos/3789888/pexels-photo-3789888.jpeg
+5	Camilla Mendonça_3	https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg
+6	Rogerio Passos_3	https://images.pexels.com/photos/3777946/pexels-photo-3777946.jpeg
+7	Nathalia Gomes_1	https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg
+8	Luciano dos Santos_1	https://images.pexels.com/photos/12210370/pexels-photo-12210370.jpeg
